@@ -1,7 +1,9 @@
 A short Storytelling game coded for college work of Java classes.
 
 ![Screenshot_2](https://imgur.com/a/sYOy1gh)
-![stack Overflow](http://lmsotfy.com/so.png)
+<p align="center">
+  <img src="https://imgur.com/a/sYOy1gh" width="350" alt="accessibility text">
+</p>
 
 ## Getting Started
 
