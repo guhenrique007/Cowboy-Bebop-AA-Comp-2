@@ -5,4 +5,4 @@ A short Storytelling game coded for college work of Java classes.
 
 ## Getting Started
 
-Run dist/jogoCowboy.jar
+Run ``dist/jogoCowboy.jar``
